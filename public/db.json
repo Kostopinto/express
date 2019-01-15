@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "model": "Apple - MacBook Air 2017",
+      "price": 999,
+      "configuration": "Intel Core i5 - 8GB Memory - 128GB Flash Storage - Silver",
+      "description": "The 13-inch MacBook Air features 8GB of memory, a fifth-generation Intel Core processor, Thunderbolt 2, great built-in apps, and all-day battery life.* It’s thin, light, and durable enough to take everywhere you go—and powerful enough to do everything once you get there.",
+      "img": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5465/5465502_sd.jpg"
+    },
+    {
+      "id": 2,
+      "model": "Apple - MacBook Air 2017",
+      "price": 1200,
+      "configuration": "Intel Core i5 - 8GB Memory - 256GB Flash Storage - Silver",
+      "description": "The 13-inch MacBook Air features 8GB of memory, a fifth-generation Intel Core processor, Thunderbolt 2, great built-in apps, and all-day battery life.* It’s thin, light, and durable enough to take everywhere you go—and powerful enough to do everything once you get there.",
+      "img": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5465/5465502_sd.jpg"
+    },
+    {
+      "id": 3,
+      "model": "Apple - MacBook Pro 13 2017",
+      "price": 1149,
+      "configuration": "Intel Core i5 - 8 GB Memory - 128GB Flash Storage - Space Gray",
+      "description": "The new MacBook Pro is razor-thin, featherlight, and now even faster and more powerful than before. It has the brightest, most colorful Mac notebook display. And it features up to 10 hours of battery life.* It’s a notebook built for the work you do every day. Ready to go anywhere a great idea takes you. ",
+      "img": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5721/5721723_sd.jpg"
+    },
+    {
+      "id": 4,
+      "model": "Apple - MacBook Pro 13 2017",
+      "price": 1500,
+      "configuration": "Intel Core i5 - 16 GB Memory - 256GB Flash Storage - Space Gray",
+      "description": "The new MacBook Pro is razor-thin, featherlight, and now even faster and more powerful than before. It has the brightest, most colorful Mac notebook display. And it features up to 10 hours of battery life.* It’s a notebook built for the work you do every day. Ready to go anywhere a great idea takes you. ",
+      "img": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5721/5721723_sd.jpg"
+    },
+    {
+      "id": 5,
+      "model": "Apple - MacBook Air Retina ",
+      "price": 1099,
+      "configuration": " Intel Core i5 - 8GB Memory - 128GB Flash Storage - Gold",
+      "description": "Available in silver, space gray, and gold, the new thinner and lighter MacBook Air features a stunning Retina display, Touch ID, the latest Apple-designed keyboard, and a Force Touch trackpad - all housed in an iconic wedge design made from 100 percent recycled aluminum.² And with all-day battery life, MacBook Air is your perfectly portable, do-it-all notebook.",
+      "img": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5998/5998800_sd.jpg"
+    },
+    {
+      "id": 6,
+      "model": "Apple - MacBook Air Retina ",
+      "price": 1600,
+      "configuration": " Intel Core i5 - 16GB Memory - 512GB Flash Storage  - Gold",
+      "description": "Available in silver, space gray, and gold, the new thinner and lighter MacBook Air features a stunning Retina display, Touch ID, the latest Apple-designed keyboard, and a Force Touch trackpad - all housed in an iconic wedge design made from 100 percent recycled aluminum.² And with all-day battery life, MacBook Air is your perfectly portable, do-it-all notebook.",
+      "img": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5998/5998800_sd.jpg"
+    },
+    {
+      "id": 7,
+      "model": "Apple - MacBook Pro - 15 2018 ",
+      "price": 4000,
+      "configuration": " Intel Core i9 - 32GB Memory - AMD Radeon Pro 560X - 1024GB SSD  - Space Gray",
+      "description": "The new MacBook Pro has 6-core Intel Core processors for up to 70 percent faster compute speeds.¹ A brilliant and colorful Retina display featuring True Tone technology for a more true-to-life viewing experience. And the versatile Touch Bar for more ways to be productive. It's Apple's powerful notebook. Pushed even further.",
+      "img": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5998/5998604_sd.jpg"
+    },
+    {
+      "id": 8,
+      "model": "Apple - MacBook Pro - 15 2018 ",
+      "price": 2399,
+      "configuration": " Intel Core i7 - 16GB Memory - AMD Radeon Pro 555X - 256GB SSD - Space Gray",
+      "description": "The new MacBook Pro has 6-core Intel Core processors for up to 70 percent faster compute speeds.¹ A brilliant and colorful Retina display featuring True Tone technology for a more true-to-life viewing experience. And the versatile Touch Bar for more ways to be productive. It's Apple's powerful notebook. Pushed even further.",
+      "img": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5998/5998604_sd.jpg"
+    },
+    {
+      "id": 9,
+      "model": "Apple - MacBook Pro - 15 2018 ",
+      "price": 3000,
+      "configuration": " Intel Core i9 - 16GB Memory - AMD Radeon Pro 560X - 512GB SSD - Space Gray",
+      "description": "The new MacBook Pro has 6-core Intel Core processors for up to 70 percent faster compute speeds.¹ A brilliant and colorful Retina display featuring True Tone technology for a more true-to-life viewing experience. And the versatile Touch Bar for more ways to be productive. It's Apple's powerful notebook. Pushed even further.",
+      "img": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5998/5998604_sd.jpg"
+    }
+  ]
+}
